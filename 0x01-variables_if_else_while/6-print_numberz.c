@@ -12,9 +12,9 @@ int main(void)
 int number;
 
 for (number = 0; number < 10; number++)
-}
-putchar(number + 48);
 {
+putchar(number + 48);
+}
 
 putchar('\n');
 
